@@ -1,0 +1,36 @@
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\RepositaryEF.deps.json
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\RepositaryEF.runtimeconfig.json
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\RepositaryEF.runtimeconfig.dev.json
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\RepositaryEF.dll
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\ref\RepositaryEF.dll
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\RepositaryEF.pdb
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.AssemblyReference.cache
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.AssemblyInfoInputs.cache
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.AssemblyInfo.cs
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.CoreCompileInputs.cache
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.dll
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\ref\RepositaryEF.dll
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.pdb
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.genruntimeconfig.cache
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\Repositary.core.dll
+D:\ITi 3M\RepoTask\RepositaryEF\bin\Debug\net5.0\Repositary.core.pdb
+D:\ITi 3M\RepoTask\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.CopyComplete
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\RepositaryEF.deps.json
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\RepositaryEF.runtimeconfig.json
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\RepositaryEF.runtimeconfig.dev.json
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\RepositaryEF.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\ref\RepositaryEF.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\RepositaryEF.pdb
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\Repositary.core.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\bin\Debug\net5.0\Repositary.core.pdb
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.AssemblyReference.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.AssemblyInfoInputs.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.AssemblyInfo.cs
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.CoreCompileInputs.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.csproj.CopyComplete
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\ref\RepositaryEF.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.pdb
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\RepositaryEF\obj\Debug\net5.0\RepositaryEF.genruntimeconfig.cache

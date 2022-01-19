@@ -1,0 +1,24 @@
+D:\ITi 3M\RepoTask\Repositary.core\bin\Debug\net5.0\Repositary.core.deps.json
+D:\ITi 3M\RepoTask\Repositary.core\bin\Debug\net5.0\Repositary.core.dll
+D:\ITi 3M\RepoTask\Repositary.core\bin\Debug\net5.0\ref\Repositary.core.dll
+D:\ITi 3M\RepoTask\Repositary.core\bin\Debug\net5.0\Repositary.core.pdb
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.AssemblyInfoInputs.cache
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.AssemblyInfo.cs
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.csproj.CoreCompileInputs.cache
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.dll
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\ref\Repositary.core.dll
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.pdb
+D:\ITi 3M\RepoTask\Repositary.core\obj\Debug\net5.0\Repositary.core.csproj.AssemblyReference.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\bin\Debug\net5.0\Repositary.core.deps.json
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\bin\Debug\net5.0\Repositary.core.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\bin\Debug\net5.0\ref\Repositary.core.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\bin\Debug\net5.0\Repositary.core.pdb
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.csproj.AssemblyReference.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.AssemblyInfoInputs.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.AssemblyInfo.cs
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.csproj.CoreCompileInputs.cache
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\ref\Repositary.core.dll
+E:\مشاريع git hup\مشروع تخرج ITI\Custom Attribute Use DataAnotation\Repositary.core\obj\Debug\net5.0\Repositary.core.pdb
